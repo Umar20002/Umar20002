@@ -1,7 +1,12 @@
-<!Doctype/> 
+<!Doctype html> 
+<html>
 <head>
-<p> Watch it Dogs</p>
+<title>Watch it Dogs</title>
 </head>
+  
 <body>
-<b> My Name</b>
+ 
+<h> My Name</h>
+  <p>is Umar</p>
 </body>
+<html>
